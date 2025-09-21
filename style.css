@@ -73,8 +73,7 @@ border-color: #fff;
      animation-duration: 4s;
     animation-iteration-count: infinite;
     animation-name: example;
-    animation-timing-function: linear;
-
+    
 } 
 .home-details p{
     font-size: 18px;
